@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xpr3d\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xpr3d\\.nuget\\packages"
+    ]
+  }
+}

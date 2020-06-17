@@ -1,0 +1,12 @@
+C:\Projects\Software\WebDev\Sample\Console Game\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+C:\Projects\Software\WebDev\Sample\Console Game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+C:\Projects\Software\WebDev\Sample\Console Game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+C:\Projects\Software\WebDev\Sample\Console Game\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Projects\Software\WebDev\Sample\Console Game\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Projects\Software\WebDev\Sample\Console Game\obj\Debug\netcoreapp2.2\ConsoleGame.genruntimeconfig.cache

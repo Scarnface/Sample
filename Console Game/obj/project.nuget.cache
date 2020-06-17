@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOg6Lox2ysj5lEC5a5qXoh8ampK2RkIHFv5DEHScFwHI4UacjvQ5BS0fnhkvX5kxdff32+ZQfmdgyNyAdYbhbg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Software\\WebDev\\Sample\\Console Game\\ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\xpr3d\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
