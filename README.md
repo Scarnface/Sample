@@ -1,5 +1,6 @@
 # Sample
 Examples of Codecademy projects:
+
 ·         Number Guesser (JavaScript)
 
 ·         Games of Chance (Python)
